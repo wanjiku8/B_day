@@ -199,28 +199,3 @@ body {
     color: #FF0000;
 }
 
-
-.navbar {
-    background-color: #ffffff !important;
-}
-
-.navbar-brand {
-    color: rgb(0, 0, 0) !important;
-    font-size: 1.5em;
-}
-
-.nav-link {
-    color: rgb(0, 0, 0) !important;
-    transition: color 0.3s;
-}
-
-.nav-link:hover {
-    color: #FF0000 !important;
-}
-
-
-.nav-link:focus,
-.navbar-toggler:focus {
-    outline: none;
-    border: none;
-}
